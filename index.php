@@ -179,7 +179,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-9 col-md-8 col-lg-7 col-xl-7 offset-lg-1 offset-xxl-0">
-                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Likesushi</span></h1>
+                    <h2 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Likesushi</span></h2>
                     <p class="big swiper-text" data-caption-animate="fadeInLeft" data-caption-delay="300"><h3>🚨Осторожно🚨 очень вкусно😋</h3></p>
                     <!-- <a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="fadeInUp" data-caption-delay="300">View our menu</a> -->
                   </div>
@@ -192,7 +192,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-9 col-md-8 col-lg-7 col-xl-7 offset-lg-1 offset-xxl-0">
-                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Likesushi</span></h1>
+                    <h2 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Likesushi</span></h2>
                     <p class="big swiper-text" data-caption-animate="fadeInLeft" data-caption-delay="300"><h3>всегда вкусно😋</h3></p>
                     <!-- <a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="fadeInUp" data-caption-delay="300">View our menu</a> -->
                   </div>
@@ -205,7 +205,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-8 col-lg-7 offset-lg-1 offset-xxl-0">
-                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Likesushi</span></h1>
+                    <h2 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Likesushi</span></h2>
                     <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300"><h3>Бесплатная доставка</h3></p>
                     <!-- <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="slideInUp" data-caption-delay="0">View our menu</a></div> -->
                   </div>
