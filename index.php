@@ -680,7 +680,7 @@
       <section class="section section-sm section-first bg-default">
         <div class="container">
           <h3 class="heading-3">Заказать</h3>
-          <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+          <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="telega.php">
             <div class="row row-20 gutters-20">
               <div class="col-md-6 col-lg-4 oh-desktop">
                 <div class="form-wrap wow slideInDown">
