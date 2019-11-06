@@ -74,7 +74,13 @@
                           <div class="unit-body"><a class="phone" href="tel:87757067686">+7(775) 706 76 86</a></div>
                         </div>
                       </li>
-                      <li>
+                      <!-- <li>
+                        <div class="unit unit-spacing-xs">
+                          <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                          <div class="unit-body"><a class="phone" href="tel:87757067686">+7(775) 706 76 86</a></div>
+                        </div>
+                      </li>
+ -->                      <li>
                         <div class="unit unit-spacing-xs">
                           <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
                           <div class="unit-body"><a class="address" href="#">Аксай 4-й микрорайон, 79а</a></div>
@@ -83,9 +89,8 @@
                     </ul>
                     <ul class="list-share-2">
                       <li><a class="icon mdi mdi-facebook" href="#"></a></li>
-                      <li><a class="icon mdi mdi-twitter" href="#"></a></li>
                       <li><a class="icon mdi mdi-instagram" href="https://www.instagram.com/sushilike.kz/"></a></li>
-                      <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                      <li><a class="icon mdi mdi-whatsapp" href="#"></a></li>
                     </ul>
                   </div>
                   <div class="rd-navbar-main">
@@ -200,8 +205,8 @@
               <div class="container">
                 <div class="row">
                   <div class="col-sm-8 col-lg-7 offset-lg-1 offset-xxl-0">
-                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Суши и Пицца</span></h1>
-                    <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300"><h3>Закажи доставим БЕСПЛАТНО</h3></p>
+                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Likesushi</span></h1>
+                    <p class="big swiper-text" data-caption-animate="fadeInRight" data-caption-delay="300"><h3>Бесплатная доставка</h3></p>
                     <!-- <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="slideInUp" data-caption-delay="0">View our menu</a></div> -->
                   </div>
                 </div>
@@ -265,20 +270,40 @@
       <!-- Section Services  Last section-->
 
        <!-- Our Shop-->
-      <section class="section section-lg bg-default">
+     <section class="section section-lg bg-default">
         <div class="container">
           <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Наш Меню</span></h3><br>
             <h5>Суши</h5> 
           <div class="row row-lg row-30">
+
             <div class="col-sm-6 col-lg-4 col-xl-3">                     
               <article class="product wow fadeInLeft" data-wow-delay=".15s">
-                <div class="product-figure"><img src="images/11.png" alt="" width="161" height="162"/>
+                <div class="product-figure"><img src="images/w.jpg" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Филадельфия</h6>
+                <h6 class="product-title">Филадельфия с огурцом</h6>
                 <div class="product-price-wrap">
-                  <div class="product-price">1490 тнг</div>
+                  <div class="product-price product-price-old">1390 тнг</div>
+                  <div class="product-price">1190 тнг</div>
+                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+                <span class="product-badge product-badge-sale">Скидка</span>
+              </article>
+            </div>
+            
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/e.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Темпура</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price">990 тнг</div>
                 </div>
                 <!-- <div class="product-button">
                   <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
@@ -286,151 +311,194 @@
                 </div> -->
               </article>
             </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">              
-              <article class="product wow fadeInLeft" data-wow-delay=".1s">
-                <div class="product-figure">
-                  <img src="images/13.png" alt="" width="161" height="162"/>
+            
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/r.jpg" alt="" width="161" height="162"/>
                 </div>
-                <div class="product-rating">
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Хосомаки</h6>
+                <h6 class="product-title">Унаги филадельфия</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price">1690 тнг</div>
+                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+              </article>
+            </div>
+            
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/t.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Филадельфия с луком</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price product-price-old">1390 тнг</div>
+                  <div class="product-price">1190 тнг</div>
+                </div>
+                <span class="product-badge product-badge-sale">Скидка</span>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+                </article>
+            </div>
+            
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/y.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Лава</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price">990 тнг</div>
+                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+              </article>
+            </div>
+            
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/u.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Сакура</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price">1190 тнг</div>
+                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+              </article>
+            </div>            
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/i.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Сегун</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price product-price-old">1290 тнг</div>
+                  <div class="product-price">1090 тнг</div>
+                </div>
+                <span class="product-badge product-badge-sale">Скидка</span>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+              </article>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/o.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Сяке Маки</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price">990 тнг</div>
+                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+              </article>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/p.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Канадский</h6>
+                <div class="product-price-wrap">
+                  <div class="product-price">1590 тнг</div>
+                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
+                <span class="product-badge product-badge-new">Новый</span>
+              </article>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/a.jpg" alt="" width="161" height="162"/>
+                </div>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
+                </div>
+                <h6 class="product-title">Филадельфия люкс</h6>
                 <div class="product-price-wrap">
                   <div class="product-price">1290 тнг</div>
                 </div>
                 <!-- <div class="product-button">
-                  <div class="button-wrap">
-                    <a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
-                  <div class="button-wrap">
-                    <a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
-                </div> -->
-                <span class="product-badge product-badge-new">Новый</span>
-              </article>
-            </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">              
-              <article class="product wow fadeInLeft" data-wow-delay=".05s">
-                <div class="product-figure"><img src="images/15.jpg" alt="" width="161" height="162"/>
-                </div>
-                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
-                </div>
-                <h6 class="product-title">Футомаки</h6>
-                <div class="product-price-wrap">
-                  <div class="product-price product-price-old">1650 тнг</div>
-                  <div class="product-price">1390 тнг</div>
-                </div>
-                <!-- <div class="product-button">
                   <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
                   <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
                 </div> -->
-                <span class="product-badge product-badge-sale">Скидка</span>
               </article>
             </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">            
+            <!-- <div class="col-sm-6 col-lg-4 col-xl-3">                     
               <article class="product wow fadeInLeft" data-wow-delay=".15s">
-                <div class="product-figure"><img src="images/17.png" alt="" width="161" height="162"/>
+                <div class="product-figure"><img src="images/s.jpg" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Урамаки</h6>
+                <h6 class="product-title">Киото</h6>
                 <div class="product-price-wrap">
                   <div class="product-price">1490 тнг</div>
                 </div>
                 <!-- <div class="product-button">
                   <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
                   <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
-                </div> -->
-              </article>
-            </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">              
-              <article class="product wow fadeInLeft" data-wow-delay=".1s">
-                <div class="product-figure">
-                  <img src="images/14.png" alt="" width="161" height="162"/>
-                </div>
-                <div class="product-rating">
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                  <span class="mdi mdi-star"></span>
-                </div>
-                <h6 class="product-title">Тэмаки</h6>
-                <div class="product-price-wrap">
-                  <div class="product-price">1490 тнг</div>
-                </div>
-                <!-- <div class="product-button">
-                  <div class="button-wrap">
-                    <a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
-                  <div class="button-wrap">
-                    <a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
-                </div> -->
+                </div> --
                 <span class="product-badge product-badge-new">Новый</span>
               </article>
-            </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">              
-              <article class="product wow fadeInLeft" data-wow-delay=".05s">
-                <div class="product-figure"><img src="images/15.jpg" alt="" width="161" height="162"/>
+            </div> -->
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/d.jpg" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Нигири</h6>
+                <h6 class="product-title">Унаги Маки</h6>
                 <div class="product-price-wrap">
-                  <div class="product-price product-price-old">1650 тнг</div>
-                  <div class="product-price">1490 тнг</div>
+                  <div class="product-price">790 тнг</div>
                 </div>
                 <!-- <div class="product-button">
                   <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
                   <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
                 </div> -->
-                <span class="product-badge product-badge-sale">Скидка</span>
               </article>
             </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">              
-              <article class="product wow fadeInLeft">
-                <div class="product-figure"><img src="images/12.png" alt="" width="161" height="162"/>
+            <div class="col-sm-6 col-lg-4 col-xl-3">                     
+              <article class="product wow fadeInLeft" data-wow-delay=".15s">
+                <div class="product-figure"><img src="images/f.jpg" alt="" width="161" height="162"/>
                 </div>
-                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span>
+                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Гункани</h6>
+                <h6 class="product-title">Бансай</h6>
                 <div class="product-price-wrap">
-                  <div class="product-price product-price-old">1650 тнг</div>
-                  <div class="product-price">1490 тнг</div>
+                  <div class="product-price product-price-old">1390 тнг</div>
+                  <div class="product-price">1190 тнг</div>
                 </div>
+                <span class="product-badge product-badge-sale">Скидка</span>
                 <!-- <div class="product-button">
                   <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
                   <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
                 </div> -->
-                <span class="product-badge product-badge-sale">Скидка</span>
               </article>
             </div>
-
-            <div class="col-sm-6 col-lg-4 col-xl-3">              
-              <article class="product wow fadeInLeft" data-wow-delay=".05s">
-                <div class="product-figure"><img src="images/11.png" alt="" width="161" height="162"/>
-                </div>
-                <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
-                </div>
-                <h6 class="product-title">Маки</h6>
-                <div class="product-price-wrap">
-                  <div class="product-price product-price-old">1650 тнг</div>
-                  <div class="product-price">1390 тнг</div>
-                </div>
-                <div class="product-button">
-                  <!-- <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
-                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div> -->
-                </div>
-                <span class="product-badge product-badge-sale">Скидка</span>
-              </article>
-            </div>            
           </div>
         </div>
       </section>
@@ -596,10 +664,10 @@
                   <div class="product-price product-price-old">1650 тнг</div>
                   <div class="product-price">1390 тнг</div>
                 </div>
-                <div class="product-button">
-                  <!-- <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
-                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div> -->
-                </div>
+                <!-- <div class="product-button">
+                  <div class="button-wrap"><a class="button button-xs button-primary button-winona" href="#">Добавить карзину</a></div>
+                  <div class="button-wrap"><a class="button button-xs button-secondary button-winona" href="#">Показать продукт</a></div>
+                </div> -->
                 <span class="product-badge product-badge-sale">Скидка</span>
               </article>
             </div>            
@@ -611,8 +679,8 @@
       <!-- Tell Заказать нач  -->
       <section class="section section-sm section-first bg-default">
         <div class="container">
-          <h3 class="heading-3">ЗАКАЗАТЬ</h3>
-          <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="telega.php"> <!--bat/rd-mailform.php-->
+          <h3 class="heading-3">Заказать</h3>
+          <form class="rd-form rd-mailform form-style-1" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
             <div class="row row-20 gutters-20">
               <div class="col-md-6 col-lg-4 oh-desktop">
                 <div class="form-wrap wow slideInDown">
@@ -748,7 +816,7 @@
       <!-- What We Offer-->
       <section class="section section-xl bg-default">
         <div class="container">
-          <h3 class="wow fadeInLeft">ЧТО ГОВОРЯТ ЛЮДИ</h3>
+          <h4 class="wow fadeInLeft">Отзывы</h4>
         </div>
         <div class="container container-style-1">
           <div class="owl-carousel owl-style-12" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-xl-margin="45" data-autoplay="true" data-nav="true" data-center="true" data-smart-speed="400">
@@ -758,7 +826,7 @@
                 <div class="quote-tara-text">
                   <p class="q">Очень, очень вкусно! Всем рекомендую. Роллы большие и свежие. Заказали доставку. Привезли все быстро и горячим.</p>
                 </div>
-                <div class="quote-tara-figure"><img src="images/user-6-115x115.jpg" alt="" width="115" height="115"/>
+                <div class="quote-tara-figure"><img src="images/user3.jpg" alt="" width="115" height="115"/>
                 </div>
               </div>
               <h6 class="quote-tara-author">Кристина Андреевна</h6>
@@ -770,7 +838,7 @@
                 <div class="quote-tara-text">
                   <p class="q">Я настоящий любитель пиццы,и даже когда я дома, я предпочитаю вашу пиццу всем остальным. Они имеют потрясающий вкус и очень доступны.</p>
                 </div>
-                <div class="quote-tara-figure"><img src="images/user-8-115x115.jpg" alt="" width="115" height="115"/>
+                <div class="quote-tara-figure"><img src="images/user4.jpg" alt="" width="115" height="115"/>
                 </div>
               </div>
               <h6 class="quote-tara-author">Алина Исмаилова</h6>
@@ -782,7 +850,7 @@
                 <div class="quote-tara-text">
                   <p class="q">Таких вкусных суши мы еще не пробовали. Заведение маленькое, но очень уютное.</p>
                 </div>
-                <div class="quote-tara-figure"><img src="images/user-7-115x115.jpg" alt="" width="115" height="115"/>
+                <div class="quote-tara-figure"><img src="images/user1.jpg" alt="" width="115" height="115"/>
                 </div>
               </div>
               <h6 class="quote-tara-author">Талгат Айдаров</h6>
@@ -794,7 +862,7 @@
                 <div class="quote-tara-text">
                   <p class="q">Заказываем в месяц 2 или3 раза. Всегда все на высшем уровне. Приезжали друзья с других городов они были в восторге. И цены самые лучшие. Не успеваем с фоткать.</p>
                 </div>
-                <div class="quote-tara-figure"><img src="images/user-9-115x115.jpg" alt="" width="115" height="115"/>
+                <div class="quote-tara-figure"><img src="images/user.jpg" alt="" width="115" height="115"/>
                 </div>
               </div>
               <h6 class="quote-tara-author">Антон Сергеев</h6>
@@ -809,7 +877,9 @@
           <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-1-310x585.jpg" alt="" width="310" height="585"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft">
+                <a class="thumbnail-mary-figure" href="images/gallery-1-1200x800-original.jpg" data-lightgallery="item">
+                  <img src="images/5.jpg" alt="" width="310" height="585"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">Лучший ингредиент</a></h6>
@@ -965,7 +1035,7 @@
                   <div class="footer-modern-contacts wow slideInDown">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-email"></span></div>
-                      <div class="unit-body"><a class="mail" href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a class="mail" href="mailto:#">7067686a@mail.ru</a></div>
                     </div>
                   </div>
                   <div class="wow slideInRight">
