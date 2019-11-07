@@ -1061,7 +1061,7 @@
                   <span>&copy;&nbsp;</span>
                   <span class="copyright-year"></span>
                   <span>.&nbsp;</span>
-                  <span>Разработано&nbsp;<a href="https://elsif.kz/"><ELSIF/></a></span>
+                  <span>Разработано&nbsp;<a href="https://elsif.kz/">ELSIF</a></span>
                 </p>
               </div>
             </div>
